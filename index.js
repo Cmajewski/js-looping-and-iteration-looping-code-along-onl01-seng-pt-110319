@@ -8,7 +8,7 @@ return thankYouCards
 
 
 function countDown(startingNumber){
-while (startingNumber>-1)
+while (startingNumber>0)
   {console.log (startingNumber)
     startingNumber-=1
   }
