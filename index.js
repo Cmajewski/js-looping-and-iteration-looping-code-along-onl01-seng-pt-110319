@@ -1,3 +1,4 @@
-const writeCards(name,event){
-  
+function writeCards(name,event){
+let
+
 }
