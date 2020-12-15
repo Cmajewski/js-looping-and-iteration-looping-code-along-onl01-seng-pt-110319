@@ -1,5 +1,5 @@
 function writeCards(name, greeting){
-let thakYouCards=[]
+let thankYouCards=[]
 for (let i=0; i<name.length; i++){
   thankYouCards.push(`Thank you ${name}! For the wonderful ${greeting} gift`)
 }
