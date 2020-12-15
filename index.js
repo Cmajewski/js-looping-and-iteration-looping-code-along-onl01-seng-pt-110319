@@ -8,5 +8,8 @@ return thankYouCards
 
 
 function countDown(numbers){
+let  count=0
+while (count<numbers.length){
 
+}
 }
