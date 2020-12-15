@@ -3,4 +3,5 @@ let thakYouCards=[]
 for (let i=0,i<thankYouCards.length,i++){
   thankYouCards.push(`Hi`)
 }
+return thankYouCards
 }
