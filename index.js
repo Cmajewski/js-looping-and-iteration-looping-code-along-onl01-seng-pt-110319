@@ -1,6 +1,6 @@
 function writeCards(name, greeting){
-let nameCards=[]
-for (let i=0,i<nameCards.length,i++){
-  ``
+let thakYouCards=[]
+for (let i=0,i<thankYouCards.length,i++){
+  thankYouCards.push(`HI`)
 }
 }
