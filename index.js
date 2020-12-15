@@ -1,1 +1,3 @@
-
+const writeCards(name,event){
+  
+}
