@@ -7,9 +7,8 @@ return thankYouCards
 }
 
 
-function countDown(numbers){
-let  count=0
-while (count<numbers.length){
-
-}
+function countDown(startingNumber){
+while (startingNumber>0)
+  {console.log `startingNumber`
+  startingNumber++}
 }
