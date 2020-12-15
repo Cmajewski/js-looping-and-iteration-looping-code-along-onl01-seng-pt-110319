@@ -10,6 +10,6 @@ return thankYouCards
 function countDown(startingNumber){
 while (startingNumber>-1)
   {console.log (startingNumber)
-    startingNumber--
+    startingNumber-=1
   }
 }
